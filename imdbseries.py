@@ -25,7 +25,9 @@ linksSeries = [
 ["Westworld","tt0475784"]
 ]
 
-table = []
+table = [["Temporada","Ep. Nome","Ep. N.","Nota","Série"]]
+#line=
+
 for linkSerie in linksSeries:
 
 	#conecta no link de uma temporada pra listar todas temporadas
@@ -47,13 +49,23 @@ for linkSerie in linksSeries:
 		
 		#pega items de cada episódio
 		mydivs = soup.findAll("div", {"class": ["list_item odd", "list_item even"]})
-
+		
+		teveZero = False
 		for div in mydivs:
+			episodio = int(div.find("meta")['content'])
+			if episodio == 0:
+				teveZero = True
 			
+			if teveZero:
+				episodio = int(div.find("meta")['content'])+1
 			line=[]
 			line.append(int(div2.get_text().replace('\n', ' ').replace('\r', '').replace(' ', '')))
 			line.append(div.find("strong").get_text())
-			line.append(div.find("meta")['content'])
+			#print(div.find("strong").get_text())
+			#line.append(div.find("meta")['content'])
+			#print(div.find("meta")['content'])
+			line.append(episodio)
+			print(episodio)
 			try:
 				line.append(float(div.find("span", {"class": ["ipl-rating-star__rating"]}).get_text()))
 				line.append(linkSerie[0])			
@@ -65,7 +77,7 @@ for linkSerie in linksSeries:
 			
 			print(line)
 
-
+		#break
 with open('series.csv', 'w') as output_file:
 
 	writer = csv.writer(output_file, dialect='excel',delimiter=';',lineterminator='\n')

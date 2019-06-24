@@ -1,3 +1,4 @@
+Temporada;Ep. Nome;Ep. N.;Nota;Série
 1;Winter Is Coming;1;9.1;Game Of Thrones
 1;The Kingsroad;2;8.8;Game Of Thrones
 1;Lord Snow;3;8.7;Game Of Thrones
@@ -63,7 +64,7 @@
 7;The Queen's Justice;3;9.2;Game Of Thrones
 7;The Spoils of War;4;9.8;Game Of Thrones
 7;Eastwatch;5;8.9;Game Of Thrones
-7;Beyond the Wall;6;9.1;Game Of Thrones
+7;Beyond the Wall;6;9.0;Game Of Thrones
 7;The Dragon and the Wolf;7;9.5;Game Of Thrones
 8;Winterfell;1;7.6;Game Of Thrones
 8;A Knight of the Seven Kingdoms;2;7.9;Game Of Thrones
@@ -179,8 +180,8 @@
 1;Sentencing;13;8.3;The Wire
 2;Ebb Tide;1;7.7;The Wire
 2;Collateral Damage;2;8.0;The Wire
-2;Hot Shots;3;8.1;The Wire
-2;Hard Cases;4;8.0;The Wire
+2;Hot Shots;3;8.0;The Wire
+2;Hard Cases;4;7.9;The Wire
 2;Undertow;5;8.1;The Wire
 2;All Prologue;6;8.3;The Wire
 2;Backwash;7;8.2;The Wire
@@ -189,7 +190,7 @@
 2;Storm Warnings;10;8.3;The Wire
 2;Bad Dreams;11;8.4;The Wire
 2;Port in a Storm;12;8.3;The Wire
-3;Time After Time;1;8.1;The Wire
+3;Time After Time;1;8.0;The Wire
 3;All Due Respect;2;8.2;The Wire
 3;Dead Soldiers;3;8.3;The Wire
 3;Hamsterdam;4;8.3;The Wire
@@ -224,26 +225,27 @@
 5;Clarifications;8;8.2;The Wire
 5;Late Editions;9;8.4;The Wire
 5;-30-;10;8.8;The Wire
-1;Avatar: The Last Airbender;0;8.6;Avatar: The Last Airbender
-1;The Boy in the Iceberg;1;8.2;Avatar: The Last Airbender
-1;The Avatar Returns;2;8.4;Avatar: The Last Airbender
-1;The Southern Air Temple;3;8.5;Avatar: The Last Airbender
-1;The Warriors of Kyoshi;4;8.2;Avatar: The Last Airbender
-1;The King of Omashu;5;8.3;Avatar: The Last Airbender
-1;Imprisoned;6;8.1;Avatar: The Last Airbender
-1;The Spirit World: Winter Solstice, Part 1;7;8.3;Avatar: The Last Airbender
-1;Avatar Roku: Winter Solstice, Part 2;8;8.9;Avatar: The Last Airbender
-1;The Waterbending Scroll;9;8.1;Avatar: The Last Airbender
-1;Jet;10;7.9;Avatar: The Last Airbender
-1;The Great Divide;11;7.2;Avatar: The Last Airbender
-1;The Storm;12;9.0;Avatar: The Last Airbender
-1;The Blue Spirit;13;9.1;Avatar: The Last Airbender
-1;The Fortuneteller;14;8.0;Avatar: The Last Airbender
-1;Bato of the Water Tribe;15;8.0;Avatar: The Last Airbender
-1;The Deserter;16;8.5;Avatar: The Last Airbender
-1;The Northern Air Temple;17;8.1;Avatar: The Last Airbender
-1;The Waterbending Master;18;8.6;Avatar: The Last Airbender
-1;The Siege of the North;19;9.4;Avatar: The Last Airbender
+1;Avatar: The Last Airbender;1;8.6;Avatar: The Last Airbender
+1;The Boy in the Iceberg;2;8.2;Avatar: The Last Airbender
+1;The Avatar Returns;3;8.4;Avatar: The Last Airbender
+1;The Southern Air Temple;4;8.5;Avatar: The Last Airbender
+1;The Warriors of Kyoshi;5;8.2;Avatar: The Last Airbender
+1;The King of Omashu;6;8.3;Avatar: The Last Airbender
+1;Imprisoned;7;8.1;Avatar: The Last Airbender
+1;The Spirit World: Winter Solstice, Part 1;8;8.3;Avatar: The Last Airbender
+1;Avatar Roku: Winter Solstice, Part 2;9;8.9;Avatar: The Last Airbender
+1;The Waterbending Scroll;10;8.1;Avatar: The Last Airbender
+1;Jet;11;8.0;Avatar: The Last Airbender
+1;The Great Divide;12;7.2;Avatar: The Last Airbender
+1;The Storm;13;9.0;Avatar: The Last Airbender
+1;The Blue Spirit;14;9.1;Avatar: The Last Airbender
+1;The Fortuneteller;15;8.0;Avatar: The Last Airbender
+1;Bato of the Water Tribe;16;8.0;Avatar: The Last Airbender
+1;The Deserter;17;8.5;Avatar: The Last Airbender
+1;The Northern Air Temple;18;8.1;Avatar: The Last Airbender
+1;The Waterbending Master;19;8.6;Avatar: The Last Airbender
+1;The Siege of the North;20;9.4;Avatar: The Last Airbender
+1;The Siege of the North Part 2;21;9.9;Avatar: The Last Airbender
 2;The Avatar State;1;8.7;Avatar: The Last Airbender
 2;The Cave of Two Lovers;2;8.3;Avatar: The Last Airbender
 2;Return to Omashu;3;8.5;Avatar: The Last Airbender
@@ -264,7 +266,7 @@
 2;The Earth King;18;8.6;Avatar: The Last Airbender
 2;The Guru;19;9.0;Avatar: The Last Airbender
 2;The Crossroads of Destiny;20;9.5;Avatar: The Last Airbender
-3;The Awakening;1;8.7;Avatar: The Last Airbender
+3;The Awakening;1;8.8;Avatar: The Last Airbender
 3;The Headband;2;8.5;Avatar: The Last Airbender
 3;The Painted Lady;3;8.1;Avatar: The Last Airbender
 3;Sokka's Master;4;8.8;Avatar: The Last Airbender
@@ -371,21 +373,21 @@
 6;The Second Coming;19;9.2;The Sopranos
 6;The Blue Comet;20;9.5;The Sopranos
 6;Made in America;21;9.1;The Sopranos
-1;Unaired Pilot;0;8.9;Sherlock
-1;A Study in Pink;1;9.1;Sherlock
-1;The Blind Banker;2;8.1;Sherlock
-1;The Great Game;3;9.1;Sherlock
+1;Unaired Pilot;1;8.9;Sherlock
+1;A Study in Pink;2;9.1;Sherlock
+1;The Blind Banker;3;8.1;Sherlock
+1;The Great Game;4;9.1;Sherlock
 2;A Scandal in Belgravia;1;9.5;Sherlock
 2;The Hounds of Baskerville;2;8.5;Sherlock
 2;The Reichenbach Fall;3;9.7;Sherlock
-3;Many Happy Returns;0;8.7;Sherlock
-3;The Empty Hearse;1;9.0;Sherlock
-3;The Sign of Three;2;9.0;Sherlock
-3;His Last Vow;3;9.3;Sherlock
-4;The Abominable Bride;0;8.2;Sherlock
-4;The Six Thatchers;1;7.7;Sherlock
-4;The Lying Detective;2;9.2;Sherlock
-4;The Final Problem;3;8.3;Sherlock
+3;Many Happy Returns;1;8.7;Sherlock
+3;The Empty Hearse;2;9.0;Sherlock
+3;The Sign of Three;3;9.0;Sherlock
+3;His Last Vow;4;9.3;Sherlock
+4;The Abominable Bride;1;8.2;Sherlock
+4;The Six Thatchers;2;7.7;Sherlock
+4;The Lying Detective;3;9.2;Sherlock
+4;The Final Problem;4;8.3;Sherlock
 1;The Crocodile's Dilemma;1;9.4;Fargo
 1;The Rooster Prince;2;8.5;Fargo
 1;A Muddy Road;3;8.7;Fargo
@@ -448,12 +450,12 @@
 1;Hokorobi;6;7.5;Death Note
 1;Donten;7;8.0;Death Note
 1;Mesen;8;7.6;Death Note
-1;Sesshoku;9;7.5;Death Note
+1;Sesshoku;9;7.6;Death Note
 1;Giwaku;10;7.4;Death Note
 1;Totsunyû;11;7.6;Death Note
 1;Koigokoro;12;7.4;Death Note
 1;Kokuhaku;13;7.4;Death Note
-1;Tomodachi;14;7.3;Death Note
+1;Tomodachi;14;7.4;Death Note
 1;Kake;15;7.7;Death Note
 1;Ketsudan;16;7.3;Death Note
 1;Shikkou;17;7.2;Death Note
@@ -527,8 +529,8 @@
 4;Hang the DJ;4;8.8;Black Mirror
 4;Metalhead;5;6.7;Black Mirror
 4;Black Museum;6;8.7;Black Mirror
-5;Striking Vipers;1;7.0;Black Mirror
-5;Smithereens;2;7.7;Black Mirror
+5;Striking Vipers;1;6.9;Black Mirror
+5;Smithereens;2;7.6;Black Mirror
 5;Rachel, Jack and Ashley Too;3;6.0;Black Mirror
 1;The One Where Monica Gets a Roommate;1;8.4;Friends
 1;The One with the Sonogram at the End;2;8.1;Friends
@@ -766,11 +768,11 @@
 10;The One with Rachel's Going Away Party;16;8.9;Friends
 10;The Last One: Part 1;17;9.5;Friends
 10;The Last One: Part 2;18;9.7;Friends
-1;Good News, Bad News;0;7.7;Seinfeld
-1;The Stakeout;1;7.7;Seinfeld
-1;The Robbery;2;7.7;Seinfeld
-1;Male Unbonding;3;7.5;Seinfeld
-1;The Stock Tip;4;7.7;Seinfeld
+1;Good News, Bad News;1;7.7;Seinfeld
+1;The Stakeout;2;7.7;Seinfeld
+1;The Robbery;3;7.7;Seinfeld
+1;Male Unbonding;4;7.5;Seinfeld
+1;The Stock Tip;5;7.7;Seinfeld
 2;The Ex-Girlfriend;1;7.8;Seinfeld
 2;The Pony Remark;2;8.0;Seinfeld
 2;The Jacket;3;8.4;Seinfeld
@@ -805,7 +807,7 @@
 3;The Good Samaritan;20;8.1;Seinfeld
 3;The Letter;21;8.1;Seinfeld
 3;The Parking Space;22;8.4;Seinfeld
-3;The Keys;23;8.5;Seinfeld
+3;The Keys;23;8.6;Seinfeld
 4;The Trip: Part 1;1;8.3;Seinfeld
 4;The Trip: Part 2;2;8.5;Seinfeld
 4;The Pitch;3;8.8;Seinfeld
@@ -940,8 +942,8 @@
 9;The Chronicle;21;8.1;Seinfeld
 9;The Finale;22;7.7;Seinfeld
 1;Nisen-nengo no Kimi e: Shiganshina Kanraku (1);1;9.3;Attack on Titan
-1;That Day: The Fall of Shiganshina, Part 2;2;9.0;Attack on Titan
-1;A Dim Light Amid Despair: Humanity's Comeback, Part 1;3;8.9;Attack on Titan
+1;That Day: The Fall of Shiganshina, Part 2;2;9.1;Attack on Titan
+1;A Dim Light Amid Despair: Humanity's Comeback, Part 1;3;9.0;Attack on Titan
 1;The Night of the Closing Ceremony: Humanity's Comeback, Part 2;4;9.1;Attack on Titan
 1;First Battle: Defense of Trost, Part 1;5;9.4;Attack on Titan
 1;The World the Girl Saw: The Struggle for Trost, Part 2;6;9.3;Attack on Titan
@@ -970,7 +972,7 @@
 2;Heishi;4;9.5;Attack on Titan
 2;Historia;5;9.6;Attack on Titan
 2;Senshi;6;9.8;Attack on Titan
-2;Da Tou Kyou;7;9.5;Attack on Titan
+2;Da Tou Kyou;7;9.6;Attack on Titan
 2;Ou Mono;8;9.2;Attack on Titan
 2;Kaikou;9;9.2;Attack on Titan
 2;Kodomo-tachi;10;9.3;Attack on Titan
@@ -996,6 +998,7 @@
 3;Midnight Sun;18;9.9;Attack on Titan
 3;The Basement;19;9.3;Attack on Titan
 3;That Day;20;9.9;Attack on Titan
+3;The Attack Titan;21;9.8;Attack on Titan
 1;Episode #1.1;1;8.2;Peaky Blinders
 1;Episode #1.2;2;8.4;Peaky Blinders
 1;Episode #1.3;3;8.5;Peaky Blinders
