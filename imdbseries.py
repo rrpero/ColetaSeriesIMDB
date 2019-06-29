@@ -22,12 +22,13 @@ linksSeries = [
 ["Attack on Titan","tt2560140"],
 ["Peaky Blinders","tt2442560"],
 ["House of Cards","tt1856010"],
-["Westworld","tt0475784"]
+["Westworld","tt0475784"],
+["Lost","tt0411008"]
 ]
 
 table = [["Temporada","Ep. Nome","Ep. N.","Nota","Série"]]
 #line=
-
+#para cada serie
 for linkSerie in linksSeries:
 
 	#conecta no link de uma temporada pra listar todas temporadas
@@ -36,6 +37,7 @@ for linkSerie in linksSeries:
 
 	soup2 = BeautifulSoup(page2.content, 'html.parser')
 
+	#pego a lista de temporadas
 	mydivs2 = soup2.find("select", {"id": ["bySeason"]}).findAll("option")
 
 
@@ -44,12 +46,14 @@ for linkSerie in linksSeries:
 
 		print("https://www.imdb.com/title/"+linkSerie[1]+"/episodes/_ajax?season="+div2.get_text().replace('\n', ' ').replace('\r', '').replace(' ', ''))
 		page = requests.get("https://www.imdb.com/title/"+linkSerie[1]+"/episodes/_ajax?season="+div2.get_text().replace('\n', ' ').replace('\r', '').replace(' ', ''))
-		#page = requests.get("https://www.imdb.com/title/tt0411008/episodes/_ajax?season=2")
+		
 		soup = BeautifulSoup(page.content, 'html.parser')
 		
 		#pega items de cada episódio
-		mydivs = soup.findAll("div", {"class": ["list_item odd", "list_item even"]})
+		mydivs = soup.findAll("div", {"class": ["list_item"]})
 		
+		#Algumas séries o episódio retornou começar no 0
+		#Assumi que todas temporadas de todas séries começam com 1 e fiz essa flag
 		teveZero = False
 		for div in mydivs:
 			episodio = int(div.find("meta")['content'])
@@ -61,11 +65,7 @@ for linkSerie in linksSeries:
 			line=[]
 			line.append(int(div2.get_text().replace('\n', ' ').replace('\r', '').replace(' ', '')))
 			line.append(div.find("strong").get_text())
-			#print(div.find("strong").get_text())
-			#line.append(div.find("meta")['content'])
-			#print(div.find("meta")['content'])
 			line.append(episodio)
-			print(episodio)
 			try:
 				line.append(float(div.find("span", {"class": ["ipl-rating-star__rating"]}).get_text()))
 				line.append(linkSerie[0])			
@@ -77,7 +77,7 @@ for linkSerie in linksSeries:
 			
 			print(line)
 
-		#break
+#salvando o csv
 with open('series.csv', 'w') as output_file:
 
 	writer = csv.writer(output_file, dialect='excel',delimiter=';',lineterminator='\n')

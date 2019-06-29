@@ -186,14 +186,14 @@ Temporada;Ep. Nome;Ep. N.;Nota;Série
 2;All Prologue;6;8.3;The Wire
 2;Backwash;7;8.2;The Wire
 2;Duck and Cover;8;8.2;The Wire
-2;Stray Rounds;9;8.3;The Wire
+2;Stray Rounds;9;8.2;The Wire
 2;Storm Warnings;10;8.3;The Wire
 2;Bad Dreams;11;8.4;The Wire
 2;Port in a Storm;12;8.3;The Wire
 3;Time After Time;1;8.0;The Wire
 3;All Due Respect;2;8.2;The Wire
 3;Dead Soldiers;3;8.3;The Wire
-3;Hamsterdam;4;8.3;The Wire
+3;Hamsterdam;4;8.2;The Wire
 3;Straight and True;5;8.3;The Wire
 3;Homecoming;6;8.3;The Wire
 3;Back Burners;7;8.3;The Wire
@@ -204,15 +204,15 @@ Temporada;Ep. Nome;Ep. N.;Nota;Série
 3;Mission Accomplished;12;8.5;The Wire
 4;Boys of Summer;1;8.2;The Wire
 4;Soft Eyes;2;8.3;The Wire
-4;Home Rooms;3;8.3;The Wire
-4;Refugees;4;8.3;The Wire
+4;Home Rooms;3;8.2;The Wire
+4;Refugees;4;8.2;The Wire
 4;Alliances;5;8.2;The Wire
 4;Margin of Error;6;8.3;The Wire
 4;Unto Others;7;8.3;The Wire
 4;Corner Boys;8;8.2;The Wire
-4;Know Your Place;9;8.3;The Wire
+4;Know Your Place;9;8.2;The Wire
 4;Misgivings;10;8.3;The Wire
-4;A New Day;11;8.3;The Wire
+4;A New Day;11;8.2;The Wire
 4;That's Got His Own;12;8.4;The Wire
 4;Final Grades;13;8.7;The Wire
 5;More with Less;1;8.0;The Wire
@@ -235,7 +235,7 @@ Temporada;Ep. Nome;Ep. N.;Nota;Série
 1;The Spirit World: Winter Solstice, Part 1;8;8.3;Avatar: The Last Airbender
 1;Avatar Roku: Winter Solstice, Part 2;9;8.9;Avatar: The Last Airbender
 1;The Waterbending Scroll;10;8.1;Avatar: The Last Airbender
-1;Jet;11;8.0;Avatar: The Last Airbender
+1;Jet;11;7.9;Avatar: The Last Airbender
 1;The Great Divide;12;7.2;Avatar: The Last Airbender
 1;The Storm;13;9.0;Avatar: The Last Airbender
 1;The Blue Spirit;14;9.1;Avatar: The Last Airbender
@@ -245,7 +245,7 @@ Temporada;Ep. Nome;Ep. N.;Nota;Série
 1;The Northern Air Temple;18;8.1;Avatar: The Last Airbender
 1;The Waterbending Master;19;8.6;Avatar: The Last Airbender
 1;The Siege of the North;20;9.4;Avatar: The Last Airbender
-1;The Siege of the North Part 2;21;9.9;Avatar: The Last Airbender
+1;The Siege of the North Part 2;21;9.8;Avatar: The Last Airbender
 2;The Avatar State;1;8.7;Avatar: The Last Airbender
 2;The Cave of Two Lovers;2;8.3;Avatar: The Last Airbender
 2;Return to Omashu;3;8.5;Avatar: The Last Airbender
@@ -292,7 +292,7 @@ Temporada;Ep. Nome;Ep. N.;Nota;Série
 1;Denial, Anger, Acceptance;3;8.8;The Sopranos
 1;Meadowlands;4;8.8;The Sopranos
 1;College;5;8.9;The Sopranos
-1;Pax Soprana;6;8.7;The Sopranos
+1;Pax Soprana;6;8.6;The Sopranos
 1;Down Neck;7;8.6;The Sopranos
 1;The Legend of Tennessee Moltisanti;8;8.8;The Sopranos
 1;Boca;9;8.7;The Sopranos
@@ -431,7 +431,7 @@ Temporada;Ep. Nome;Ep. N.;Nota;Série
 2;Maybe Tomorrow;3;7.6;True Detective
 2;Down Will Come;4;8.4;True Detective
 2;Other Lives;5;7.9;True Detective
-2;Church in Ruins;6;8.5;True Detective
+2;Church in Ruins;6;8.4;True Detective
 2;Black Maps and Motel Rooms;7;8.8;True Detective
 2;Omega Station;8;8.2;True Detective
 3;The Great War and Modern Memory;1;8.8;True Detective
@@ -450,12 +450,12 @@ Temporada;Ep. Nome;Ep. N.;Nota;Série
 1;Hokorobi;6;7.5;Death Note
 1;Donten;7;8.0;Death Note
 1;Mesen;8;7.6;Death Note
-1;Sesshoku;9;7.6;Death Note
+1;Sesshoku;9;7.5;Death Note
 1;Giwaku;10;7.4;Death Note
 1;Totsunyû;11;7.6;Death Note
 1;Koigokoro;12;7.4;Death Note
 1;Kokuhaku;13;7.4;Death Note
-1;Tomodachi;14;7.4;Death Note
+1;Tomodachi;14;7.3;Death Note
 1;Kake;15;7.7;Death Note
 1;Ketsudan;16;7.3;Death Note
 1;Shikkou;17;7.2;Death Note
@@ -521,7 +521,7 @@ Temporada;Ep. Nome;Ep. N.;Nota;Série
 3;Playtest;2;8.1;Black Mirror
 3;Shut Up and Dance;3;8.5;Black Mirror
 3;San Junipero;4;8.7;Black Mirror
-3;Men Against Fire;5;7.7;Black Mirror
+3;Men Against Fire;5;7.6;Black Mirror
 3;Hated in the Nation;6;8.6;Black Mirror
 4;USS Callister;1;8.3;Black Mirror
 4;Arkangel;2;7.3;Black Mirror
@@ -561,7 +561,7 @@ Temporada;Ep. Nome;Ep. N.;Nota;Série
 2;The One Where Heckles Dies;3;8.4;Friends
 2;The One with Phoebe's Husband;4;8.0;Friends
 2;The One with Five Steaks and an Eggplant;5;8.3;Friends
-2;The One with the Baby on the Bus;6;8.6;Friends
+2;The One with the Baby on the Bus;6;8.7;Friends
 2;The One Where Ross Finds Out;7;9.0;Friends
 2;The One with the List;8;8.5;Friends
 2;The One with Phoebe's Dad;9;8.0;Friends
@@ -719,7 +719,7 @@ Temporada;Ep. Nome;Ep. N.;Nota;Série
 8;The One with the Birthing Video;15;8.4;Friends
 8;The One Where Joey Tells Rachel;16;8.3;Friends
 8;The One with the Tea Leaves;17;8.2;Friends
-8;The One in Massapequa;18;8.2;Friends
+8;The One in Massapequa;18;8.3;Friends
 8;The One with Joey's Interview;19;7.5;Friends
 8;The One with the Baby Shower;20;8.3;Friends
 8;The One with the Cooking Class;21;8.2;Friends
@@ -807,7 +807,7 @@ Temporada;Ep. Nome;Ep. N.;Nota;Série
 3;The Good Samaritan;20;8.1;Seinfeld
 3;The Letter;21;8.1;Seinfeld
 3;The Parking Space;22;8.4;Seinfeld
-3;The Keys;23;8.6;Seinfeld
+3;The Keys;23;8.5;Seinfeld
 4;The Trip: Part 1;1;8.3;Seinfeld
 4;The Trip: Part 2;2;8.5;Seinfeld
 4;The Pitch;3;8.8;Seinfeld
@@ -860,7 +860,7 @@ Temporada;Ep. Nome;Ep. N.;Nota;Série
 6;The Gymnast;6;8.4;Seinfeld
 6;The Soup;7;8.3;Seinfeld
 6;The Mom and Pop Store;8;8.2;Seinfeld
-6;The Secretary;9;8.3;Seinfeld
+6;The Secretary;9;8.2;Seinfeld
 6;The Race;10;9.0;Seinfeld
 6;The Switch;11;9.0;Seinfeld
 6;The Label Maker;12;8.7;Seinfeld
@@ -965,7 +965,7 @@ Temporada;Ep. Nome;Ep. N.;Nota;Série
 1;The Defeated: The 57th Expedition Beyond the Walls, Part 6;22;9.3;Attack on Titan
 1;Smile: Raid on Stohess District, Part 1;23;9.3;Attack on Titan
 1;Mercy: Raid on Stohess District, Part 2;24;9.4;Attack on Titan
-1;Wall: Raid on Stohess District, Part 3;25;9.4;Attack on Titan
+1;Wall: Raid on Stohess District, Part 3;25;9.5;Attack on Titan
 2;Kemono no Kyojin;1;9.5;Attack on Titan
 2;Tadaima;2;9.2;Attack on Titan
 2;Nansei e;3;9.3;Attack on Titan
@@ -990,15 +990,15 @@ Temporada;Ep. Nome;Ep. N.;Nota;Série
 3;Friends;10;9.5;Attack on Titan
 3;Bystander;11;9.4;Attack on Titan
 3;Night of the Battle to Retake the Wall;12;9.3;Attack on Titan
-3;The Town Where Everything Began;13;9.6;Attack on Titan
-3;Thunder Spears;14;9.6;Attack on Titan
+3;The Town Where Everything Began;13;9.7;Attack on Titan
+3;Thunder Spears;14;9.7;Attack on Titan
 3;Descent;15;9.6;Attack on Titan
 3;Perfect Game;16;9.9;Attack on Titan
 3;Hero;17;10.0;Attack on Titan
 3;Midnight Sun;18;9.9;Attack on Titan
 3;The Basement;19;9.3;Attack on Titan
 3;That Day;20;9.9;Attack on Titan
-3;The Attack Titan;21;9.8;Attack on Titan
+3;The Attack Titan;21;9.7;Attack on Titan
 1;Episode #1.1;1;8.2;Peaky Blinders
 1;Episode #1.2;2;8.4;Peaky Blinders
 1;Episode #1.3;3;8.5;Peaky Blinders
@@ -1114,5 +1114,123 @@ Temporada;Ep. Nome;Ep. N.;Nota;Série
 2;Phase Space;6;7.8;Westworld
 2;Les Écorchés;7;8.0;Westworld
 2;Kiksuya;8;8.8;Westworld
-2;Vanishing Point;9;8.5;Westworld
+2;Vanishing Point;9;8.4;Westworld
 2;The Passenger;10;8.5;Westworld
+1;Pilot: Part 1;1;9.3;Lost
+1;Pilot: Part 2;2;9.2;Lost
+1;Tabula Rasa;3;8.6;Lost
+1;Walkabout;4;9.2;Lost
+1;White Rabbit;5;8.6;Lost
+1;House of the Rising Sun;6;8.4;Lost
+1;The Moth;7;8.6;Lost
+1;Confidence Man;8;8.8;Lost
+1;Solitary;9;8.7;Lost
+1;Raised by Another;10;8.8;Lost
+1;All the Best Cowboys Have Daddy Issues;11;8.9;Lost
+1;Whatever the Case May Be;12;8.2;Lost
+1;Hearts and Minds;13;8.3;Lost
+1;Special;14;8.3;Lost
+1;Homecoming;15;8.5;Lost
+1;Outlaws;16;8.7;Lost
+1;...In Translation;17;8.6;Lost
+1;Numbers;18;9.1;Lost
+1;Deus Ex Machina;19;9.1;Lost
+1;Do No Harm;20;9.0;Lost
+1;The Greater Good;21;8.5;Lost
+1;Born to Run;22;8.3;Lost
+1;Exodus: Part 1;23;9.2;Lost
+1;Exodus: Part 2 (Part I);24;9.4;Lost
+1;Exodus: Part 2 (Part II);25;9.3;Lost
+2;Man of Science, Man of Faith;1;9.2;Lost
+2;Adrift;2;8.5;Lost
+2;Orientation;3;8.8;Lost
+2;Everybody Hates Hugo;4;8.5;Lost
+2;...And Found;5;8.1;Lost
+2;Abandoned;6;8.5;Lost
+2;The Other 48 Days;7;8.9;Lost
+2;Collision;8;8.8;Lost
+2;What Kate Did;9;8.5;Lost
+2;The 23rd Psalm;10;8.8;Lost
+2;The Hunting Party;11;8.6;Lost
+2;Fire + Water;12;7.4;Lost
+2;The Long Con;13;8.8;Lost
+2;One of Them;14;8.8;Lost
+2;Maternity Leave;15;8.6;Lost
+2;The Whole Truth;16;8.4;Lost
+2;Lockdown;17;9.1;Lost
+2;Dave;18;8.4;Lost
+2;S.O.S.;19;8.0;Lost
+2;Two for the Road;20;9.0;Lost
+2;?;21;8.9;Lost
+2;Three Minutes;22;8.6;Lost
+2;Live Together, Die Alone;23;9.5;Lost
+3;A Tale of Two Cities;1;8.8;Lost
+3;The Glass Ballerina;2;8.2;Lost
+3;Further Instructions;3;8.2;Lost
+3;Every Man for Himself;4;8.5;Lost
+3;The Cost of Living;5;8.4;Lost
+3;I Do;6;8.7;Lost
+3;Not in Portland;7;8.8;Lost
+3;Flashes Before Your Eyes;8;9.1;Lost
+3;Stranger in a Strange Land;9;7.3;Lost
+3;Tricia Tanaka Is Dead;10;8.4;Lost
+3;Enter 77;11;8.8;Lost
+3;Par Avion;12;8.5;Lost
+3;The Man from Tallahassee;13;9.1;Lost
+3;Exposé;14;8.2;Lost
+3;Left Behind;15;8.4;Lost
+3;One of Us;16;8.8;Lost
+3;Catch-22;17;8.6;Lost
+3;D.O.C.;18;8.4;Lost
+3;The Brig;19;9.1;Lost
+3;The Man Behind the Curtain;20;9.3;Lost
+3;Greatest Hits;21;9.2;Lost
+3;Through the Looking Glass;22;9.7;Lost
+4;The Beginning of the End;1;8.9;Lost
+4;Confirmed Dead;2;8.8;Lost
+4;The Economist;3;8.6;Lost
+4;Eggtown;4;8.3;Lost
+4;The Constant;5;9.7;Lost
+4;The Other Woman;6;8.0;Lost
+4;Ji Yeon;7;8.5;Lost
+4;Meet Kevin Johnson;8;8.6;Lost
+4;The Shape of Things to Come;9;9.1;Lost
+4;Something Nice Back Home;10;8.2;Lost
+4;Cabin Fever;11;8.8;Lost
+4;There's No Place Like Home: Part 1;12;9.0;Lost
+4;There's No Place Like Home: Part 2;13;9.3;Lost
+4;There's No Place Like Home: Part 3;14;9.2;Lost
+5;Because You Left;1;8.9;Lost
+5;The Lie;2;8.4;Lost
+5;Jughead;3;8.7;Lost
+5;The Little Prince;4;8.4;Lost
+5;This Place Is Death;5;8.8;Lost
+5;316;6;8.7;Lost
+5;The Life and Death of Jeremy Bentham;7;8.9;Lost
+5;LaFleur;8;9.0;Lost
+5;Namaste;9;8.6;Lost
+5;He's Our You;10;8.6;Lost
+5;Whatever Happened, Happened;11;8.5;Lost
+5;Dead Is Dead;12;8.9;Lost
+5;Some Like It Hoth;13;8.4;Lost
+5;The Variable;14;8.9;Lost
+5;Follow the Leader;15;8.8;Lost
+5;The Incident: Part 1;16;9.3;Lost
+5;The Incident: Part 2;17;9.3;Lost
+6;LA X - Part 1;1;8.8;Lost
+6;LA X - Part 2;2;8.7;Lost
+6;What Kate Does;3;7.9;Lost
+6;The Substitute;4;8.5;Lost
+6;Lighthouse;5;8.3;Lost
+6;Sundown;6;8.3;Lost
+6;Dr. Linus;7;8.6;Lost
+6;Recon;8;8.1;Lost
+6;Ab Aeterno;9;9.3;Lost
+6;The Package;10;8.1;Lost
+6;Happily Ever After;11;8.9;Lost
+6;Everybody Loves Hugo;12;8.6;Lost
+6;The Last Recruit;13;8.4;Lost
+6;The Candidate;14;9.0;Lost
+6;Across the Sea;15;8.3;Lost
+6;What They Died For;16;8.8;Lost
+6;The End;17;8.2;Lost
